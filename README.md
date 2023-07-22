@@ -14,3 +14,18 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 
  # Business Insights & Recommendations:
 
+- Business Insights
+        As per Dataset most of the movies & TV Shows are directed by Rajiv Chilaka(19) followed by Raúl Campos and Jan Suter (18 each)
+        Netflix started adding more and more TV Shows as the demand for the same is growing
+        After 2019 there is a dip in the count of Movies and TV Shows, which may be the COVID effect
+        Most directed movies on Netflix are directed by Rajiv Chilaka (As per Data Set)
+        Highest percentile rating is for TV-MA
+        The most number of Movies and TV Shows available in the US followed by INDIA
+        Top 5 Genre is already analyzed, International Movies genre contains the highest number of Movies/TV Shows, i.e. 2624
+        Estimate duration of any Show is around 200 minutes mostly
+        August is the Month when most Movies/TV Shows are added to Netflix, followed by December and September
+ - Recommendations
+        As the popularity of TV Shows increases, Netflix should focus on TV Shows as well. This step can help Netflix to increase its user base
+        India is the second largest user base for Netflix, Netflix should focus on more such content which can work efficiently in India
+        Netflix should focus on the Comedy, Action & Adventure genres as these genres have great potential and are currently in a growing state           (On Netflix's platform)
+        After Covid Period, i.e. after 2020, Netflix should focus on increasing the number of contents
